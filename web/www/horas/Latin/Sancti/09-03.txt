@@ -2,11 +2,12 @@
 S. Pii X Papæ Confessoris
 
 [Rank]
-;;Duplex;;3;;vide C4b
+S. Pii X Papæ Confessoris;;Duplex I classis;;6;;ex C4
 
 [Rule]
-vide C4b;mtv
-9 lectiones
+ex C4;
+9 lectiones;
+Antiphonas horas
 
 [Oratio]
 Deus, qui ad tuéndam cathólicam fidem, et univérsa in Christo instauránda sanctum Pium, Summum Pontíficem, cælésti sapiéntia et apostólica fortitúdine replevísti: concéde propítius; ut, ejus institúta et exémpla sectántes, prǽmia consequámur ætérna.
