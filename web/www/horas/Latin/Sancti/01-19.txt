@@ -2,15 +2,99 @@
 Ss. Marii, Marthæ, Audifacis, et Abachum Martyrum
 
 [Rank]
-;;Simplex;;1.1;;vide C3a
+S. Melanii Episcopi et Confessoris;;Duplex I classis;;6;;ex C4
 
 [Rule]
-vide C3a;
+ex C4;
+9 lectiones;
+Antiphonas horas
 
 [Oratio]
-Exáudi, Dómine, pópulum tuum cum Sanctórum tuórum patrocínio supplicántem: ut et temporális vitæ nos tríbuas pace gaudére; et ætérnæ reperíre subsídium.
+Sit, quǽsumus, Dómine, beátus conféssor tuus Melánius custos áctuum nostrórum:~
+et mala ópera ac desidéria malígna, quæ nostra fragílitas superáre non potest,~
+ejus pia intercessióne, tua annuénte benignitáte, vincántur.
 $Per Dominum
 
 [Lectio93]
 Marius Persa, nobili loco natus, cum Martha cónjuge pari nobilitate, et duobus fíliis Audíface et Abachum, Romam venit Cláudio imperatóre, ut Mártyrum sepúlcra venerarétur. Ibi Christiános in víncula conjectos fovébant, et ópera ac facultátibus suis sustentábant, et Sanctórum córpora sepeliebant. Quam ob rem comprehénsi omnes, cum nec impiórum minis nec terróre commoveréntur, ut diis sacrificarent; primum fustibus debilitati, deínde funibus attracti, tum admótis candéntibus, láminis combusti, et úngulis férreis excarnificáti sunt. Postremo præcisis mánibus, et ad collum alligatis, ducti per mediam urbem, via Cornelia ad tertium décimum ab Urbe milliárium, in eum locum, qui Nymphe dicebátur, necántur: ac primum Martha, quæ virum ac fílios ad supplícia pro Jesu Christi fide constanter perferenda, veheménter fuerat cohortáta; mox ceteris in eádem arenaria cervices abscindúntur, eorúmque córpora conjiciúntur in ignem. Quæ semiusta, Felícitas matrona Romana nobilis, colligenda et in suo prædio sepelienda curávit.
+
+[Lectio4]
+Melánius, in diœcési Veneténsi amplíssimo loco natus, sinceróque Christiánæ~
+pietátis lacte a téneris enutrítus, Episcopáli disciplína, cum in sacris~
+litteris, tum præcípue in virtútibus mire profécit. Hinc ut viríles annos~
+áttigit, spretis sǽculi illecébris, monásticæ vitæ se áddixit: jamque divínis~
+excúbiis liber indulgébat athléta religiósus, cum post óbitum beatíssimi Amándi,~
+ipsiúsque voto, Clerus, primátes, vulgúsque omne urbis Rhedonénsis eum~
+convenére, efflagitántes, ut sibi, in defúncti loco et sede, Patris offício~
+fungerétur. Qui, licet repúgnans retinénsque, ne divínæ tamen resísteret~
+voluntáti, delátum sibi honórem súbiit; et iníta simul severióri adhuc vivéndi~
+ratióne, cibis et somno diútius abstínere, fervéntius oratióni insístere cœpit,~
+pepétua cordis cum Deo unióne, et rara ádmodum humilitáte præsértim conspícuus.
+
+[Lectio5]
+Cum autem spíritu Dei accénsum verbum ejus quasi fácula ardéret, ad prædicándam~
+fidem et extirpándas ethnícæ impietátis relíquias a Clodóveo Magno accítus fuit;~
+quo quidem in ópere, non sine ubérrimo fructu versátus, alter cum beáto Remígio~
+Francórum Apóstolus dici mérito potest. Cum eódem Reménsi Antístite apud regem~
+auctor fuit ut convocarétur Concílium Aurelianénse primum; in quo zelus~
+instaurándæ Ecclesiásticæ disciplínæ, inter bellórum motus labefactátæ, magnáque~
+Melánii vis et erudítio in confutándis hærésibus effúlsere. Suam Diœcésim,~
+finitimósque locos assídua prædicatióne, variísque illustrávit miráculis. Morbos~
+et dæmónia a multis óleo sacro fugávit: quo in primis Eusébium veneténsem regem~
+sanitáti restítuit, fília simul précibus ejus a dæmóne liberáta. Imo, ut Páganos~
+quosdam Veneténses Christiánæ fídei lucrarétur, jacéntis pectóri admóta cruce,~
+coram ómnibus púerum a morte ressuscitávit.
+
+[Lectio6]
+Demum, tantis virtútibus et labóribus idolórum cultu fere ómnino profligáto,~
+cum extrémum vitæ diem appropinquáre cognoscéret, bonum sibi réputans præstolári~
+cum siléntio salutáre Dei, in monastérium secéssit, quod sibi, in Pláccio fundo~
+patérno, ædificáverat: ubi, postquam éxitum suum Domínici Córporis et Sánguinis~
+perceptióne muniísset, inter verba sanctæ oratiónis et exhortatiónis coram~
+Frátribus, depósita mortalitáte, migrávit ad cælum octávo Idus Novémbris, anno~
+salútis quingentésimo trigésimo. Corpus illíus Rhédonas solémniter advéctum~
+Albínus Andegavénsis, Victor Cenomanénsis, Launus sive Laudus Constantiénsis,~
+et Marsus, qui Nanneténsis habétur Epíscopus corúscum miráculis honorifíce~
+sepeliérunt. Quo in loco cum miræ magnitúdinis Ecclésiam fidéles mox~
+extruxíssent, ea forte incénsa (ut narrat Gregórius Turonénsis) palla línea,~
+quæ sancti Confessóris tegébat sepúlcrum, candéntibus carbónibus nihil læsa,~
+nec colórem étiam mutávit. Sacræ Prǽsulis exúviæ Bitúricas, Pruliacúmque~
+deportátæ tempóre Normannórum, póstea vero, quoad lícuit, repetítæ, nunc partim~
+in Abbatiáli quondam sui nóminis, partim in Cathedráli Ecclésia asservántur.
+
+[Lectio7]
+Léctio sancti Evangélii secúndum Lucam
+!Luc 12:35-40
+In illo témpore: Dixit Jesus discípulis suis: Sint lumbi vestri præcincti, et lucernæ ardentes in mánibus vestris. Et réliqua.
+_
+Sermo sancti Augustíni Epíscopi
+!Sermo 108 de verbis Dómini
+De hoc audistis modo Evangelium, quid monuerit nos, cautos nos faciens, et~
+volens esse expeditos et paratos ad exspectanda novissima: ut post novissima,~
+quæ sunt in hoc sǽculo metuenda, succedat requies, quæ non habet finem. Beati~
+qui participes facti fuerint. Erunt autem tunc securi, qui modo non sunt securi:~
+et iterum tunc timebunt, qui modo timere nolunt. Ad hanc exspectationem et~
+propter hanc spem christiani facti sumus. Nonne spes nostra est de hoc sǽculo?~
+Non amemus sǽculum.
+
+[Lectio8]
+Ab amore sǽculi huius vocati sumus, ut aliud sǽculum speremus et diligamus. In~
+hoc abstinere nos debemus ab omnibus illicitis concupiscentiis, hoc est, lumbos~
+accinctos habere debemus: et fervere et lucere in operibus bonis, hoc est,~
+lucernas ardentes habere. Dixit enim ipse Dominus discipulis suis alio loco~
+Evangelii: Nemo accendit lucernam, et ponit eam sub modio, sed super~
+candelabrum, ut luceat omnibus qui in domo sunt. Et ut ostenderet unde dicebat,~
+subiecit et ait: Sic luceat lumen vestrum coram hominibus, ut videant bona facta~
+vestra, et glorificent Patrem vestrum qui in cælis est.
+
+[Lectio9]
+Ideo lumbos nostros accinctos esse voluit, et lucernas ardentes. Quid est,~
+lumbos accinctos? Declina a malo. Quid est lucere? quid est lucernas ardentes~
+habere? Hoc est: Et fac bonum. Quid est quod adiunxit et ait: Et vos similes~
+estote hominibus exspectantibus dominum suum quando veniat a nuptiis: nisi quod~
+in illo psalmo sequitur: Inquire pacem, et sequere eam? Hæc tria, hoc est,~
+abstinentia a malo, et operatio boni, et spes prǽmii æterni, commemorata sunt~
+in Actibus Apostolorum, ubi scriptum est, Quia docebat eos Paulus de~
+continentia, de iustitia, et spe vitæ æternæ.
 &teDeum
+
