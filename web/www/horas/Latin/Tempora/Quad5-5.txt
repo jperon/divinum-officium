@@ -1,12 +1,13 @@
 [Rank]
-Septem Dolorum Beatæ Mariæ Virginis;;Duplex majus;;4
+Septem Dolorum Beatæ Mariæ Virginis;;Duplex I classis;;6
 
-[Rank] (rubrica 1960)
-Septem Dolorum Beatæ Mariæ Virginis;;Commemoratio;;1
+[Rank1960]
+Beatæ Mariæ Virginis de Compassione;;Duplex I classis;;6
 
 [Rule]
 Psalmi Dominica
 Antiphonas horas
+9 lectiones 1960
 9 lectiones
 Gloria responsory
 (rubrica cisterciensis) Doxology=NatT
