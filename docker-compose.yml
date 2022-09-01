@@ -10,6 +10,7 @@ services:
       context: ./
       dockerfile: Dockerfile
     volumes:
-      - ./web:/var/www/web:Z
+      - ./web:/var/www/web
+      - .:/srv
     ports:
-      - "8080:8080"
+      - 8090:80
