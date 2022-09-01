@@ -13,5 +13,6 @@ services:
       dockerfile: Dockerfile
     volumes:
       - ./web:/var/www/web
+      - .:/srv
     ports:
-      - 8080:80
+      - 8090:80
