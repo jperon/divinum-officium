@@ -9,8 +9,29 @@
 04-28=04-28=S. Pauli a Cruce Confessoris=3=
 *May*
 05-03=05-03r=Ss. Alexandri et sociorum Martyrum=1=
-05-06=XXXXX
-05-08=XXXXX
+05-04=05-04=S. Monica Vidua=3=
+05-05=05-05=S. Pii V Papae Confessoris=3=
+05-06=05-06r=In Dedicatione Cathedralis Rhedonensis=6=
+05-07=05-07=S. Stanislai Episcopi Martyri=3=
+05-09=05-09=S. Gregorii Nazianzi Episcopi Confessoris Ecclasiae Doctorum=3=
+05-10=05-10=S. Antonii Episcopi Confessoris=3=Ss. Gordiani et Epimachi Martyri=1=
+05-11=05-11r=Ss. Philippi et Jacobi Apostolorum=5=
+05-12=05-12=Ss. Nerei, Achillei et Domitillae Virgini atque Pancratii Martyrum=2=
+05-13=05-13=S.Roberti Ballarmino Episcopi Confessoris et Ecclesiae Doctoris=3=
+05-14=05-14=S. Bonifacii Martyri=1=
+05-15=05-15=S. Joanni Baptistae de la Salle Confessoris=3=
+05-16=05-16=S. Ubaldi Episcopi Confessoris=2=
+05-17=05-17=S. Paschalis Baylon Confessoris=3=
+05-18=05-18=S. Venantii Martyris;=3=3 
+05-19=05-19~05-19o=S. Petri Celestini Papae Confessoris=3=S. Pudentianae=1=
+05-20=05-20=S. Bernardini Senensis Confessoris=2=
+05-25=05-25=S. Gregory VII Papae Confessoris=3=S. Urbani I Pp et Martyris=1=
+05-26=05-26=S. Philippi Neri Confessoris=3=
+05-27=05-27=S. Bede Venerabilis Pries Confessor=4=
+05-28=05-28=S. Augustini Episcopi Confessoris=3=
+05-29=05-29=S. Mariae Magdalenae de Pazzis=2=S. Joanne Papa et Mart=1=
+05-30=05-30=S. Felicis Papae et Martyris=1=
+05-31=05-31~05-31o=Beatae Mariae Virginis Regina=5=S. Petronillae=1=
 *June*
 06-17=06-17r=S. Gregorii Barbadici Ep. Conf=3=
 06-28=06-28r=Vigilia Ss. Petri et Pauli Apostolorum=5=
