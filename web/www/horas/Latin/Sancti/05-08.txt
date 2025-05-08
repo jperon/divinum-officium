@@ -2,7 +2,7 @@
 In Apparitione S. Michaëlis Archangeli
 
 [Rank]
-;;Duplex majus;;4;;
+;;Simplex;;.9;;
 (sed rubrica cisterciensis)
 ;;Simplex;;1.2;;
 
