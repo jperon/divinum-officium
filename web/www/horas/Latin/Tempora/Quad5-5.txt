@@ -1,10 +1,7 @@
-[Officium]
-Septem Dolorum Beatæ Mariæ Virginis
-
 [Rank]
 Septem Dolorum Beatæ Mariæ Virginis;;Duplex I classis;;6
 
-[Rank1960]
+[Rank] (rubrica 196)
 Beatæ Mariæ Virginis de Compassione;;Duplex I classis;;6
 
 [Rule]
