@@ -51,7 +51,6 @@ Tempora/Quad5-2=Tempora/Quad5-2t;;1570
 Tempora/Quad5-3=Tempora/Quad5-3t;;1570
 Tempora/Quad5-4=Tempora/Quad5-4t;;1570
 Tempora/Quad5-5=Tempora/Quad5-5Feriat;;1570
-Tempora/Quad5-5=Tempora/Quad5-5Feria;;1960 Newcal
 Tempora/Quad6-0=Tempora/Quad6-0r;;1960 Newcal
 Tempora/Quad6-4=Tempora/Quad6-4r;;1960 Newcal
 Tempora/Quad6-5=Tempora/Quad6-5r;;1960 Newcal
